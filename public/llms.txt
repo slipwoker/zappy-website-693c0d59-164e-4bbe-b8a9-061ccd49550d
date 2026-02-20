@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פלטפורמה מובילה לקנייה ומכירה של חלקי חילוף משומשים. מוכרים ורוכשים נפגשים כאן למציאות אמיתיות. הצטרפו עכשיו וחסכו אלפי שקלים!
+
+### אודות
+https://example.com/about
+גלו איך SecondParts הפכה לפלטפורמה המהימנה ביותר למסחר בחלקי חילוף. אנחנו מחברים בין מוכרים לקונים בצורה חכמה ובטוחה מאז 2020.
+
+### מוכרים
+https://example.com/sellers
+מוכרים חלקי חילוף? פרסמו את המוצרים שלכם בקלות עם amazon product listing services המתקדמים שלנו. רישום חינם והתחילו למכור היום!
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם צוות התמיכה המקצועי של SecondParts. זמינים לכל שאלה, בעיה או הצעה. מענה מהיר ושירות אישי מובטחים. דברו איתנו עכשיו!
+
+### Products
+https://example.com/products
+המוצרים שלנו - SecondParts
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - SecondParts
+
+### Category
+https://example.com/category/:slug
+מוצרים - SecondParts
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
